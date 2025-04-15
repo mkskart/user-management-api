@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+*.db
+*.sqlite3
+
+# Docker stuff
+*.log
+*.pid
+*.sock
+*.tar
+*.gz
+*.tgz
+*.bak
+*.swp
+*.tmp
+.dockerignore
+.envrc
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
